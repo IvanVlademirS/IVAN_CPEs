@@ -1,3 +1,3 @@
-# IVAN CPEs - 912 hrs. as of 11/06/2022
+# IVAN CPEs - 932 hrs. as of 12/26/2022
 
 Click link to view CPE files --> https://github.com/IvanVlademirS/IVAN_CPEs/tree/main/IVAN_CPEs
